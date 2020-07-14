@@ -1,4 +1,4 @@
-## Hello <img src="./laser-puppy.png" height="40px" />
+## Hello <img src="https://github.com/KennethWussmann/KennethWussmann/raw/master/laser-puppy.png" height="40px" />
 
 ### Contact
 **Mail** kenneth@wussmann.net<br>
