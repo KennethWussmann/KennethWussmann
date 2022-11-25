@@ -6,6 +6,7 @@ Software Developer at [MOIA](https://moia.io) and [hobby artist](https://www.art
 
 **Mail** kenneth@wussmann.net<br>
 **Discord** Kenneth#1000<br>
-**Twitter** [ketrwu](https://twitter.com/ketrwu)
+**Mastodon** <a rel="me" href="https://fosstodon.org/@kenneth">@kenneth@fosstodon.org
+</a>
 
 ![](https://github-readme-stats.vercel.app/api?username=KennethWussmann&show_icons=true&hide_border=true)
