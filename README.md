@@ -4,8 +4,8 @@
 
 Software Developer at [MOIA](https://moia.io) and [hobby artist](https://www.artstation.com/ketrwu).
 
-**Mail** kenneth@wussmann.net<br>
-**Discord** Kenneth#1000<br>
+**Mail** hello@ketrwu.de<br>
+**Discord** `_kenneth`<br>
 **Mastodon** <a rel="me" href="https://fosstodon.org/@kenneth">@kenneth
 </a>
 
