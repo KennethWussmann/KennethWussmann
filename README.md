@@ -8,5 +8,3 @@ Software Developer at [MOIA](https://moia.io) and [hobby artist](https://www.art
 **Discord** `_kenneth`<br>
 **Mastodon** <a rel="me" href="https://fosstodon.org/@kenneth">@kenneth
 </a>
-
-![](https://github-readme-stats.vercel.app/api?username=KennethWussmann&show_icons=true&hide_border=true)
